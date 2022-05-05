@@ -46,7 +46,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📈 my github stats
 
-<p align="center"> <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=whereverest&layout=compact" /></a>
+<p align="center"> <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api?username=whereverest&layout=compact&show_icons=true&theme=gotham" /></a>
 
 
 
