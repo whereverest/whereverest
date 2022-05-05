@@ -15,7 +15,7 @@ Hi, I'm [Justin Chi](https://chi-blockchain-portfolio.herokuapp.com/), a passion
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/whereverest/whereverest/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/whereverest/whereverest/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:justin.chi.eureka@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
