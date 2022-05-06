@@ -5,8 +5,8 @@
 <a href="https://www.linkedin.com/in/justin-chi-84a24a228/">
   <img align="left" alt="Justin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=whereverest.whereverest)
 </h1>
+![](https://visitor-badge.glitch.me/badge?page_id=whereverest.whereverest)
 
 <br />
 
