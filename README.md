@@ -11,9 +11,16 @@
 <br />
 
 Hi, I'm [Justin Chi](https://chi-blockchain-portfolio.herokuapp.com/), a passionate blockchain engineer.
-I am an ambitious learner & algorithm optimizer,
-software development and team manager,
-crazy 3d gamer, passionate problem solver
+I am an ambitious learner & algorithm optimizer, software development and team manager, crazy 3d gamer and passionate problem solver.
+
+I am a passionate Blockchain Developer with solid skillsets in 
+designation of architecture and algorithm.
+Known as a fast learner always focusing on new breaking 
+technologies and sensible ideas.
+Excited to analyze complexes and optimize effectively to get 
+quality ensure as a problem-solver and product-designer.
+Seeking an opportunity to grow, strengthen my skillsets and 
+contribute to companies I work at
 
 
   <img align="right" alt="GIF" src="https://github.com/whereverest/whereverest/blob/main/code.gif?raw=true" width="500" height="320" />
