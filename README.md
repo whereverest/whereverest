@@ -19,8 +19,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 any freelance work? do reach, [email](mailto:justin.chi.eureka@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-
-**languages and tools:**  
+- 💼 any freelance work? do reach, [email](mailto:justin.chi.eureka@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+- 💼 any freelance work? do reach, [email](mailto:justin.chi.eureka@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
