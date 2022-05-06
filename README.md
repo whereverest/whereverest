@@ -1,14 +1,16 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### JUSTIN CHI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg">
   <img align="left" alt="Justin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/justin-chi-84a24a228/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Justin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=whereverest.whereverest)
 
 <br />
+
+[Ambitious learner & Algorithm optimizer, Software development and Team manager, Crazy 3d gamer, Passionate problem solver]
 
 Hi, I'm [Justin Chi](https://chi-blockchain-portfolio.herokuapp.com/), a passionate blockchain engineer with solid skillsets in 
 designation of architecture and algorithm.
@@ -17,8 +19,7 @@ technologies and sensible ideas.
 Excited to analyze complexes and optimize effectively to get 
 quality ensure as a problem-solver and product-designer.
 Seeking an opportunity to grow, strengthen my skillsets and 
-contribute to companies I work at..
-[Ambitious learner & Algorithm optimizer, Software development and Team manager, Crazy 3d gamer, Passionate problem solver]
+contribute to companies I work at.
 
   <img align="right" alt="GIF" src="https://github.com/whereverest/whereverest/blob/main/code.gif?raw=true" width="500" height="320" />
   
