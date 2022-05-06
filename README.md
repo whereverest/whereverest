@@ -1,13 +1,12 @@
-<h1 align="center">### JUSTIN CHI - BLOCKCHAIN ENGINEER <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">JUSTIN CHI<br/>BLOCKCHAIN ENGINEER <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg">
   <img align="left" alt="Justin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/justin-chi-84a24a228/">
   <img align="left" alt="Justin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-</h1>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=whereverest.whereverest)
+</h1>
 
 <br />
 
