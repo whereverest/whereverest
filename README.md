@@ -17,18 +17,16 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/whereverest/whereverest/blob/main/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:justin.chi.eureka@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-- 💼 any freelance work? do reach, [email](mailto:justin.chi.eureka@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-- 💼 any freelance work? do reach, [email](mailto:justin.chi.eureka@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-- 💼 any freelance work? do reach, [email](mailto:justin.chi.eureka@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-- 💼 any freelance work? do reach, [email](mailto:justin.chi.eureka@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-- 💼 any freelance work? do reach, [email](mailto:justin.chi.eureka@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- DEX and Centralized Crypto Exchange
+- NFT marketplace with Smart UI and high end functionalities
+- NFT Game (play to earn)
+- ERC20, ERC777, ERC223, ERC721, ERC1155 Smart Contract Development
+- Token Design - Stablecoins, Utility, Security, Investment, Dividend coins
+- Advanced Trading Platform (Stocks, CFD, Forex, Option, Features...)
+- Portfolio Tracking Platform
+- Impermanent loss, governance tokens
+- Multichain Web and Mobile Wallet :)
+- 💼 If you have any questions, please reach out to me. [email](mailto:justin.chi.eureka@gmail.com) :)
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
@@ -77,10 +75,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </table>
 
 <!--END_SECTION:waka-->
-
-📈 my github stats
-
-<p align="center"> <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api?username=whereverest&layout=compact&show_icons=true&theme=gotham" /></a>
 
 
 
