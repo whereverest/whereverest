@@ -10,9 +10,10 @@
 
 <br />
 
-Hi, I'm [Justin Chi](https://chi-blockchain-portfolio.herokuapp.com/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Hi, I'm [Justin Chi](https://chi-blockchain-portfolio.herokuapp.com/), a passionate blockchain engineer.
+I am an ambitious learner & algorithm optimizer,
+software development and team manager,
+crazy 3d gamer, passionate problem solver
 
 
   <img align="right" alt="GIF" src="https://github.com/whereverest/whereverest/blob/main/code.gif?raw=true" width="500" height="320" />
