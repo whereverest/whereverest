@@ -1,4 +1,4 @@
-<h1 align="center">JUSTIN CHI<br/>BLOCKCHAIN ENGINEER <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">BLOCKCHAIN ENGINEER <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
 
 <a href="https://discord.gg">
@@ -14,7 +14,7 @@
 
 [Ambitious learner & Algorithm optimizer, Software development and Team manager, Crazy 3d gamer, Passionate problem solver]
 
-Hi, I'm [Justin Chi](https://chi-blockchain-portfolio.herokuapp.com/), a passionate blockchain engineer with solid skillsets in 
+Hi, I'm a passionate blockchain engineer with solid skillsets in 
 designation of architecture and algorithm.
 Known as a fast learner always focusing on new breaking 
 technologies and sensible ideas.
