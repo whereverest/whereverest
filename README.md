@@ -2,10 +2,10 @@
 </h1>
 
 <a href="https://discord.gg">
-  <img align="left" alt="Justin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Jeffrey's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.linkedin.com/in/justin-chi-84a24a228/">
-  <img align="left" alt="Justin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/jeffrey-benton-eureka/">
+  <img align="left" alt="Jeffrey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=whereverest.whereverest)
@@ -34,7 +34,7 @@ contribute to companies I work at.
 - Portfolio Tracking Platform
 - Impermanent loss, governance tokens
 - Multichain Web and Mobile Wallet :)
-- 💼 If you have any questions, please reach out to me. [email](mailto:justin.chi.eureka@gmail.com) :)
+- 💼 If you have any questions, please reach out to me. [email](mailto:jeffrey.benton.ut@gmail.com) :)
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
